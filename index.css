@@ -1,0 +1,24 @@
+body{
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#card1{
+    width: 30vw;
+    align-items: center;
+    display: flex !important;
+    flex-direction: none !important;
+   
+    justify-content: center;
+}
+.parent{
+   flex-direction: column;
+   border: solid black 0.5px;
+}
+
+.card2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
